@@ -1,0 +1,8 @@
+C:\Users\QuanLe\ASP.NET MVC- Exam\ASP.NET MVC- Exam\obj\Debug\net7.0\ASP.NET MVC- Exam.csproj.AssemblyReference.cache
+C:\Users\QuanLe\ASP.NET MVC- Exam\ASP.NET MVC- Exam\obj\Debug\net7.0\ASP.NET MVC- Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QuanLe\ASP.NET MVC- Exam\ASP.NET MVC- Exam\obj\Debug\net7.0\ASP.NET MVC- Exam.AssemblyInfoInputs.cache
+C:\Users\QuanLe\ASP.NET MVC- Exam\ASP.NET MVC- Exam\obj\Debug\net7.0\ASP.NET MVC- Exam.AssemblyInfo.cs
+C:\Users\QuanLe\ASP.NET MVC- Exam\ASP.NET MVC- Exam\obj\Debug\net7.0\ASP.NET MVC- Exam.csproj.CoreCompileInputs.cache
+C:\Users\QuanLe\ASP.NET MVC- Exam\ASP.NET MVC- Exam\obj\Debug\net7.0\ASP.NET MVC- Exam.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\QuanLe\ASP.NET MVC- Exam\ASP.NET MVC- Exam\obj\Debug\net7.0\ASP.NET MVC- Exam.RazorAssemblyInfo.cache
+C:\Users\QuanLe\ASP.NET MVC- Exam\ASP.NET MVC- Exam\obj\Debug\net7.0\ASP.NET MVC- Exam.RazorAssemblyInfo.cs
